@@ -40,9 +40,10 @@ defaultContentLanguageInSubdir = true
   [languages.pt]
     title = "Rodrigo Martins"
     weight = 1
-  [languages.eng]
-    title = "Rodrigo Martins"
-    weight = 2
+#  [languages.eng]
+#    title = "Rodrigo Martins"
+#    weight = 2
+
 
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
